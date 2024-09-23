@@ -1,7 +1,12 @@
+![FULL-STACK DEVELOPER](https://github.com/user-attachments/assets/a0a45f74-6a9a-425d-8288-c712a11f7b44)
+
+
 # Ciao a tutti 👋, mi chiamo Francesco Iannaccone 
+
 Sono un appassionato Junior Full-Stack Developer.
 
-## ![customer-support (1)](https://github.com/user-attachments/assets/49461d6a-4550-4722-95c5-22adfbe73e92) Principali inguaggi di programmazione e strumenti
+
+## ![customer-support (1)](https://github.com/user-attachments/assets/49461d6a-4550-4722-95c5-22adfbe73e92) Principali inguaggi di programmazione
 
   
 ![image](https://github.com/user-attachments/assets/a38a8412-8b3a-4016-8068-f1c93929d90e)
